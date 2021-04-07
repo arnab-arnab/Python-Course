@@ -1,0 +1,13 @@
+print("Enter 8 numbers")
+a1=input()
+a2=input()
+a3=input()
+a4=input()
+a5=input()
+a6=input()
+a7=input()
+a8=input()
+b=set()
+b={a1,a2,a3,a4,a5,a6,a7,a8}
+print("The unique numbers are")
+print(b)
